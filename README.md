@@ -5,7 +5,7 @@ In the output below:
 
     • Scheduled events (scheduled manually) include lectures, morning routine, etc.
 
-    • Tasks (scheduled by the program according to due date and priority) include "PSYC_Read",
+    • Tasks (scheduled by the program according to due date and priority) include "Study CSCI",
       "groceries", "haircut", etc.
 
 ![Example weekly calendar output:](example_output.png)
